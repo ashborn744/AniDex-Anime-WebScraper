@@ -36,15 +36,13 @@
 
 - Deploy To Repl.it
 
-    - Fork This Repl To Your Account : https://replit.com/@ShreyashDheemar/AnimeDex
     
-    - Fill your TechZApi Key in config.py
 
-    - Demo : https://animedex.shreyashdheemar.repl.co
+
 
 - Deploy To Heroku
   
-  <a href="https://www.heroku.com/deploy/?template=https://github.com/TechShreyash/AnimeDex" target="_blank"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"></a>
+
 
 - Deploy On Server
   - Install Requirements
